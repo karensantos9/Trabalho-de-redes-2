@@ -2,7 +2,7 @@
 
 1. Servidor TCP (web)
 
-No terminal:
+Rodar no terminal:
 
 python server_tcp.py
 
